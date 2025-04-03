@@ -1,0 +1,16 @@
+body {
+    background-color:lightgrey;
+    font-family:Verdana;
+}
+
+.center {
+    text-align:center;
+}
+
+#Main {
+    text-align:center;
+}
+#Start {
+    width:150px;
+    height:50px;
+}
